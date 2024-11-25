@@ -3,12 +3,16 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    height: 40vmin;
+    pointer-events: none;
 }
-
+.header {
+    height: 70px;
+    background: black;
+    color: white;
+}
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+    .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
