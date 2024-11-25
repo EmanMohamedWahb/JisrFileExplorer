@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JisrFileExplorer/static/css/main.668e0312.css",
+    "main.js": "/JisrFileExplorer/static/js/main.b87ee43a.js",
+    "index.html": "/JisrFileExplorer/index.html",
+    "main.668e0312.css.map": "/JisrFileExplorer/static/css/main.668e0312.css.map",
+    "main.b87ee43a.js.map": "/JisrFileExplorer/static/js/main.b87ee43a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.668e0312.css",
+    "static/js/main.b87ee43a.js"
+  ]
+}
